@@ -10,7 +10,7 @@ EFI folder for Zenbook UX481FA to run macOS.
 </p>
 <p>
   <img
-    src="https://github.com/wern-apfel/Zenbook-UX481FA/blob/main/pics/IMG_5805.jpeg"
+    src="https://github.com/wern-apfel/Zenbook-UX481FA/blob/main/pics/IMG_5805.jpg"
     alt="UX481FA"
     class="center"
   >
