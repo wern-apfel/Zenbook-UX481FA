@@ -15,3 +15,5 @@ EFI folder for Zenbook UX481FA to run macOS.
     class="center"
   >
 </p>
+
+https://github.com/wern-apfel/Zenbook-UX481FA/blob/49490a704290a037e00fc2493638dd70aed3993f/pics/UX481_Sonoma.jpg
