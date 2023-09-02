@@ -9,7 +9,7 @@ F8  =  Show Desktop.
 F10 =  Toggle Screenpad brightness on/off.  
 F12 =  Start Music Play/Pause.   
 FN + A =  Battery health charging 80% / 100%.   
-FN + Space =  Fan mode silent/normal.  
+FN + Space  =  Fan mode silent/normal.  
 ScreenPad Key  =  Toggle on/off.  
 With working Screenpad brightness control.  
 
