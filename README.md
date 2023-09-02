@@ -4,14 +4,14 @@ EFI folder for Zenbook UX481FA to run macOS.
 With working FN key-lock.  
 Audio, brightness keys are working.   
 F6  =  Trackpad toggle on/off.  
-F7  = Keyboard illumination 
+F7  = Keyboard illumination. 
 F8  = Show Desktop.  
-F10 = Toggle Screenpad brightness on/off
+F10 = Toggle Screenpad brightness on/off.
 F12 = Start Music Play/Pause.  
 FN + A = Battery health charging 80% / 100%.  
-FN + Space = Fan mode silent/normal
-ScreenPad Key = Toggle on/off
-With working Screenpad brightness control
+FN + Space = Fan mode silent/normal.
+ScreenPad Key = Toggle on/off.
+With working Screenpad brightness control.
 
 I use Ventura, Monterey should also work. For BigSur you need the customized [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases/).   
 Please generate your own Serial, ROM, MLB, UUID.  
