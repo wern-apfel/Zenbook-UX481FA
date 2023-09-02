@@ -14,7 +14,7 @@ ScreenPad Key  =  Toggle on/off.
 With working Screenpad brightness control.  
 
 I use Ventura, Monterey should also work. For BigSur you need the customized [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases/).   
-Sonoma also works
+Sonoma also works   
 Please generate your own Serial, ROM, MLB, UUID.  
 
 The webcam does not work yet.
