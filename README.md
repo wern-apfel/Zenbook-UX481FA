@@ -9,9 +9,9 @@ F8  =  Show Desktop.
 F10 =  Toggle Screenpad brightness on/off.  
 F12 =  Start Music Play/Pause.   
 FN + A =  Battery health charging 80% / 100%.   
-FN + Space =  Fan mode silent/normal. 
-ScreenPad Key  =  Toggle on/off. 
-With working Screenpad brightness control. 
+FN + Space =  Fan mode silent/normal.  
+ScreenPad Key  =  Toggle on/off.  
+With working Screenpad brightness control.  
 
 I use Ventura, Monterey should also work. For BigSur you need the customized [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases/).   
 Please generate your own Serial, ROM, MLB, UUID.  
